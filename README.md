@@ -39,7 +39,7 @@
 
 ## PROJECT GITHUB LIVE LINK
 
-- https://steve-pitch.herokuapp.com/
+- https:https://hidden-woodland-42274.herokuapp.com/
 
 ## Contacts info
 
