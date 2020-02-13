@@ -22,7 +22,6 @@
 ## project image
 
 ![GitHub Logo](./img.png)
-Format: ![Alt Text](https://hidden-woodland-42274.herokuapp.com/)
 
 
 ## Getting started
