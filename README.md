@@ -19,6 +19,10 @@
 | Display pitches from other users | Click on a pitch | Redirect to a page     where you can access the pitch you have just clicked on |
 
 
+## project image
+
+![GitHub Logo](./img.png)
+Format: ![Alt Text](https://hidden-woodland-42274.herokuapp.com/)
 
 
 ## Getting started
