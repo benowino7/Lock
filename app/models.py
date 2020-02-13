@@ -38,6 +38,7 @@ class User(UserMixin,db.Model):
 
     def __repr__(self):
         return "User "+str(self.username)
+        
 
 class Pitch(db.Model):
     __tablename__ = 'pitches'
